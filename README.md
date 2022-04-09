@@ -9,6 +9,7 @@ java -jar botrouteplanner.jar grid-2.txt job-2.txt
 
 
 2. Dodatkowe zadanie otwarte:
+
     I sposób:
     
         1. Dijkstra od początkowej pozycji bota.
