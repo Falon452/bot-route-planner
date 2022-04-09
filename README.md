@@ -1,6 +1,7 @@
 1. Uruchomienie w folderze build/lib:
 
 java -jar botrouteplanner.jar grid-1.txt job-1.txt
+
 java -jar botrouteplanner.jar grid-2.txt job-2.txt
 
 
