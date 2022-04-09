@@ -33,6 +33,7 @@ II sposób:
 
 
 
+
 3. Sposób rozwiązania
     1. Dijkstra od pozycji startowej O(ElogV)
     2. Dijkstra od pozycji końcowej O(ElogV)
