@@ -10,12 +10,18 @@ java -jar botrouteplanner.jar grid-2.txt job-2.txt
 
 2. Dodatkowe zadanie otwarte:
     I sposób:
+    
         1. Dijkstra od początkowej pozycji bota.
+       
         2. Wybrać minimum z liczby modułów zawierających szukany target i z liczby stacji odbiorczych
+       
         -  Jeśli minimum to stacje odbiorcze to dla każdego z nich odpalamy dijkstrę
+        
         -  wpp. dla każdego modułów z targetem puszczamy dijkstre
+        
         3. Iterujemy po modułuach zawierjących target,
             dla każdego z nich iterujemy po stacjach odbiorczych i szukamy najmniejszej ścieżki
+            
         4. O(ElogV * min(liczba modułów z targetem, liczba stacji odbiorczyh)),
            minusy gdy liczba modułów z targetem jest duża lepiej rozważyć użycie algorymtu Floyda Warshalla
 
