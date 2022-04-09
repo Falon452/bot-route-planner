@@ -43,7 +43,7 @@ java -jar botrouteplanner.jar grid-2.txt job-2.txt
 ----------------------------------------------------------------------
 
 
-3. Sposób rozwiązania
+3. Sposób rozwiązania zadania
 
     1. Dijkstra od pozycji startowej O(ElogV)
     
