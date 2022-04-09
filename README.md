@@ -16,6 +16,7 @@ I sposób:
         dla każdego z nich iterujemy po stacjach odbiorczych i szukamy najmniejszej ścieżki
 
     O(ElogV * min(liczba modułów z targetem, liczba stacji odbiorczyh))
+    
     minusy gdy liczba modułów z targetem jest duża lepiej rozważyć użycie algorymtu Floyda Warshalla
 
 II sposób:
