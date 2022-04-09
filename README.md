@@ -23,8 +23,10 @@ I sposób:
     minusy gdy liczba modułów z targetem jest duża lepiej rozważyć użycie algorymtu Floyda Warshalla
 
 II sposób:
-    1. Puścić algorytm Floyda Warshalla (znajduje najkrótsze ścieżki między każdą parą wierzchołków)
+    1. Puścić algorytm Floyda Warshalla (znajduje najkrótsze ścieżki między każdą parą wierzchołków
+    
     2. Iterujemy po modułach zawierających target i szukamy najkrótszej ścieżki,
+    
     a najkrótsza ścieżka to: start ---> target + pickup ---> receive
     
     O(V^3)
