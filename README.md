@@ -5,6 +5,9 @@ java -jar botrouteplanner.jar grid-1.txt job-1.txt
 java -jar botrouteplanner.jar grid-2.txt job-2.txt
 
 
+
+
+
 2. Dodatkowe zadanie otwarte:
 I sposób:
     1. Dijkstra od początkowej pozycji bota.
@@ -25,6 +28,9 @@ II sposób:
     a najkrótsza ścieżka to: start ---> target + pickup ---> receive
 
     O(V^3)
+
+
+
 
 
 3. Sposób rozwiązania
