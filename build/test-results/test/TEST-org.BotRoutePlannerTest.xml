@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.BotRoutePlannerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-09T21:46:45" hostname="MacBook-Air-Damian.local" time="0.024">
+  <properties/>
+  <testcase name="relax()" classname="org.BotRoutePlannerTest" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
