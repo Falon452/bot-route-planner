@@ -29,9 +29,13 @@ java -jar botrouteplanner.jar grid-2.txt job-2.txt
 
 
     II sposób:
+    
         1. Puścić algorytm Floyda Warshalla (znajduje najkrótsze ścieżki między każdą parą wierzchołków
+        
         2. Iterujemy po modułach zawierających target i szukamy najkrótszej ścieżki,
+        
         a najkrótsza ścieżka to: start ---> target + pickup ---> receive
+        
         3. O(V^3)
 
 
