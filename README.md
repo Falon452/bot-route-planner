@@ -43,10 +43,14 @@ java -jar botrouteplanner.jar grid-2.txt job-2.txt
 
 
 3. Sposób rozwiązania
+
     1. Dijkstra od pozycji startowej O(ElogV)
+    
     2. Dijkstra od pozycji końcowej O(ElogV)
+    
     3. Iteracja po modułach zawierających szukany produkt i wyznaczenie najkrótszej ścieżki,
     O(ElogV)
+    
 
 gdzie
 
